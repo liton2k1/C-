@@ -1,6 +1,6 @@
 ﻿namespace System;
 
-class Variable
+class Variables
 {
     public static void Main(string[] args)
     {

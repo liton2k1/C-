@@ -1,0 +1,15 @@
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.AssemblyInfoInputs.cache
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.AssemblyInfo.cs
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.csproj.CoreCompileInputs.cache
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.sourcelink.json
+E:\Liton\C#\NamingConventions\bin\Debug\net10.0\NamingConventions.exe
+E:\Liton\C#\NamingConventions\bin\Debug\net10.0\NamingConventions.deps.json
+E:\Liton\C#\NamingConventions\bin\Debug\net10.0\NamingConventions.runtimeconfig.json
+E:\Liton\C#\NamingConventions\bin\Debug\net10.0\NamingConventions.dll
+E:\Liton\C#\NamingConventions\bin\Debug\net10.0\NamingConventions.pdb
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.dll
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\refint\NamingConventions.dll
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.pdb
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\NamingConventions.genruntimeconfig.cache
+E:\Liton\C#\NamingConventions\obj\Debug\net10.0\ref\NamingConventions.dll
