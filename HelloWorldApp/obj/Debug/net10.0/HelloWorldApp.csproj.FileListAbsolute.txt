@@ -1,0 +1,14 @@
+E:\Liton\C#\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.exe
+E:\Liton\C#\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.deps.json
+E:\Liton\C#\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.runtimeconfig.json
+E:\Liton\C#\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.dll
+E:\Liton\C#\HelloWorldApp\bin\Debug\net10.0\HelloWorldApp.pdb
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfoInputs.cache
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.AssemblyInfo.cs
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.dll
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\refint\HelloWorldApp.dll
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.pdb
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.genruntimeconfig.cache
+E:\Liton\C#\HelloWorldApp\obj\Debug\net10.0\ref\HelloWorldApp.dll
