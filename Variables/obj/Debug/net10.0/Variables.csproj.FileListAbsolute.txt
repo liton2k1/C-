@@ -1,0 +1,15 @@
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+E:\Liton\C#\Variables\bin\Debug\net10.0\Variables.exe
+E:\Liton\C#\Variables\bin\Debug\net10.0\Variables.deps.json
+E:\Liton\C#\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+E:\Liton\C#\Variables\bin\Debug\net10.0\Variables.dll
+E:\Liton\C#\Variables\bin\Debug\net10.0\Variables.pdb
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.dll
+E:\Liton\C#\Variables\obj\Debug\net10.0\refint\Variables.dll
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.pdb
+E:\Liton\C#\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+E:\Liton\C#\Variables\obj\Debug\net10.0\ref\Variables.dll
